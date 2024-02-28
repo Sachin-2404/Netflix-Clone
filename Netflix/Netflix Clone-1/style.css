@@ -1,0 +1,101 @@
+*{
+    background-color: black;
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    
+    width: 835px;
+    height: 70px;
+    margin-top: 156px;
+    margin-left: 302px;
+    margin-bottom: 248px;
+    font-size: 10.8px;
+    text-align: center;
+    line-height: 12.96px;
+    letter-spacing: normal;
+    background-color: #141414;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.label{
+    width: 835px;
+    height: 60px;
+    padding: 0px 33px;
+    font-size: 50.4px;
+    line-height: 60.48px;
+    text-align: center;
+    letter-spacing: normal;
+    background-color: #141414;
+    color: white;
+}
+
+.icon{
+    display: inline;
+    height: 144px;
+    width: 225px;
+
+    
+}
+
+.box{
+    width: 835px;
+    height: 266px;
+  padding-top: 34px;
+    display: flex;
+}
+img{
+    height: 144px;
+    width: 144px;
+    font-size: 10.8px;
+    line-height: 12.96px;
+    letter-spacing: normal;
+    text-align: center;
+}
+
+.varun{
+    width: 144px;
+    height: 55px;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    color: white;
+    font-size: 18.72px;
+    line-height: 22.464px;
+    text-align: center;
+    letter-spacing: normal;
+    font-family: Segoe UI", Roboto, Ubuntu, sans-serif;
+}
+
+
+.footer{
+    margin-top: 234px;
+   
+    margin-left: 629px;
+    margin-right: 629px;
+    width: 181px;
+    height: 91px;
+    font-size: 10.8px;
+    line-height: 12.96px;
+    text-align: center;
+    letter-spacing: normal;
+   
+    
+}
+
+.button{
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    color: #808080;
+    font-size: 17.28px;
+    line-height: 20.763px;
+    text-align: center;
+    letter-spacing: normal;
+    border: 0.85px solid white;
+    height: 87px;
+    width: 177px;
+    
+    
+}
